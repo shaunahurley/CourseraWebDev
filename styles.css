@@ -5,6 +5,7 @@
 
 body {
   background-color: #D8BFD8;
+  overflow:hidden;
 }
 
 h1 {
@@ -33,12 +34,13 @@ p {
 section{
   background-color:#AFEEEE;
   border:1px solid #000000;
-  margin:1%;
+  margin:40px
 }
 
 .row {
   border:none;
   width:100%;
+  padding:0px 20px 0px 20px;
 }
 
 @media (min-width:992px) {

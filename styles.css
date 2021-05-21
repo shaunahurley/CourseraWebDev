@@ -16,29 +16,26 @@ h1 {
 h2 {
   float:right;
   display:inline;
-  padding:10px;
-  margin-left:100%
-  margin-top:0%
-  border:1px solid #000000
   padding:5px;
+  border:1px solid #000000
+  margin-top:-1px;
+  margin-right:-1px;
 }
 
 p {
-  padding:20px;
-  padding-top: 40px;
-  margin:0px
-  border:1px solid #000000;
+  padding:10px;
+  padding-top: 0px;
+  clear:right;
 }
 
 div{
-  background-color:#DCDCDC;
+  background-color:#AFEEEE;
   border:1px solid #000000;
-  margin:40px;
+  margin:1%;
 }
 
 .row {
   border:none;
-  background-color:#D8BFD8;
   width:100%;
 }
 
